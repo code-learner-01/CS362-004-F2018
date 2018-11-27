@@ -12,9 +12,7 @@ import junit.framework.TestCase;
 // scheme:[//authority]path[?query][#fragment]
 
 
-
 public class UrlValidatorTest extends TestCase {
-
 
    public UrlValidatorTest(String testName) {
       super(testName);
@@ -146,7 +144,7 @@ public class UrlValidatorTest extends TestCase {
    //You need to create more test cases for your Partitions if you need to 
    
    // Programming-Based Testing
-   public void part3Function()
+   public void testPart3()
    {
 	   //You can use this function for programming based testing
 	   
